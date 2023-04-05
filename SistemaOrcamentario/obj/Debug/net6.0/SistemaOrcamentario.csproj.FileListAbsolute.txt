@@ -1,11 +1,3 @@
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.csproj.AssemblyReference.cache
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.AssemblyInfoInputs.cache
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.AssemblyInfo.cs
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.csproj.CoreCompileInputs.cache
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.MvcApplicationPartsAssemblyInfo.cache
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.RazorAssemblyInfo.cache
-D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.RazorAssemblyInfo.cs
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\Debug\net6.0\appsettings.Development.json
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\Debug\net6.0\appsettings.json
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\Debug\net6.0\SistemaOrcamentario.staticwebassets.runtime.json
@@ -253,6 +245,14 @@ D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\De
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.csproj.AssemblyReference.cache
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.AssemblyInfoInputs.cache
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.AssemblyInfo.cs
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.csproj.CoreCompileInputs.cache
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.RazorAssemblyInfo.cache
+D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\SistemaOrcamentario.RazorAssemblyInfo.cs
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\staticwebassets\msbuild.SistemaOrcamentario.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaOrcamentario.props
 D:\Repository\fabriciocientistati\SistemaOrcamentario\SistemaOrcamentario\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaOrcamentario.props
